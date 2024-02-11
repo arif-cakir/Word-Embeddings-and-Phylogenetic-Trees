@@ -1,2 +1,3 @@
-# Word-Embeddings-and-Phylogenetic-Trees
-Repository of Fall'24 graduation thesis for mathematical engineering program of Istanbul Technical University
+# Word Embeddings and Phylogenetic Trees
+
+In this graduation thesis, the practice of hierarchical clustering using word embedding done in [spring 2023 term graduation thesis](https://github.com/arif-cakir/GraduationProject) was expanded into phylogenetic trees. The main hypothesis of the thesis is that a phylogenetic tree can be formed using genome vectors generated using genome embedding methods. To test this hypothesis, acidobacteriota genome data from the National Center of Biotechnology Information (NCBI) was used. ProtVec and Word2Vec were used to generate vectors. The thesis consists of 5 different sections. In section 2, related works of the scientific literature to the subjects are given and summarized. This was followed by the discussion of the methodology in section 3. After that, details of the experiment were given in section 4. Finally, the results were discussed in section 5.
